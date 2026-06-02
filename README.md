@@ -1,15 +1,15 @@
 # HoH2 - Teleport in City
 
-Ce mod pour **Heroes of Hammerwatch 2** ajoute un réseau de téléporteurs (Way Gates) à travers la ville principale (le hub de départ), de la même manière que lorsque l'option de l'architecte "Way Gates" est activée dans les donjons.
+This mod for **Heroes of Hammerwatch 2** adds a network of teleporters (Way Gates) across the main town hub, mirroring the architect's "Way Gates" option that can be enabled in dungeons.
 
-Les portails se connectent ensemble dans un réseau circulaire permettant de se déplacer rapidement d'un point d'intérêt à un autre.
+The portals connect together in a circular sequence, allowing quick travel between major points of interest.
 
-## Auteur
+## Author
 *   **Tyraen1er**
 
-## Développement
-*   Développé avec une assistance par Intelligence Artificielle (**Antigravity**).
+## Development
+*   Developed with AI assistance (**Antigravity**).
 
-## Fonctionnalités
-*   **Réseau de téléporteurs** : 6 portails répartis à travers la ville permettant de circuler rapidement.
-*   **Commande de console `mypos`** : Affiche les coordonnées actuelles du personnage en jeu, pratique pour récupérer des positions précises.
+## Features
+*   **Teleporter Network**: 6 portals spawned across town for quick navigation.
+*   **`mypos` Console Command**: Displays the character's current coordinates in-game, which is useful for grabbing exact positions.
