@@ -1,5 +1,5 @@
 <dict>
 	<string name="name">Teleport in City</string>
-	<string name="author">Antigravity</string>
+	<string name="author">Tyraen1er</string>
 	<string name="description">Adds teleport waygates across the town hub and exposes the mypos command.</string>
 </dict>
